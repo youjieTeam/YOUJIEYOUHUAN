@@ -3,6 +3,6 @@ const app = getApp()
 
 Page({
   data: {
-    motto: '首页'
+    motto: '首页1.0'
   }
 })
