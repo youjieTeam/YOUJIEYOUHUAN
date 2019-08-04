@@ -3,6 +3,6 @@ const app = getApp()
 
 Page({
   data: {
-    motto: '出租1.0'
+    motto: '出租'
   }
 })
